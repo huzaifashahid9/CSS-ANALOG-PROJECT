@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+h1{
+    font-family: cursive;
+    color: brown;
+    
+}
+
+
+
+hr{
+    width: 50%;
+    margin: auto;
+}
+
+
+
+
+h3{
+    color: burlywood;
+}
+
+
+
+
+img{
+    width: 180px;
+    height: 200px;
+}
+
+p{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+a{
+    margin: 0 auto;
+    padding: 40px;
+    text-decoration: none;
+
+}
+
+
+.parent{
+    text-align: center;
+}
+
+
+body{
+    background-color: blanchedalmond;
+    border: 5px solid brown;
+}
